@@ -1,3 +1,7 @@
+# Prof Barton Beebe's Open Source Trademark Casebook
+Needs lots of work to clean up the styles content. 
+I just started by dumping the files from word docs into HTML :-/
+
 # Architect theme
 
 This is a [Jekyll][1] theme that is an adaptation of [@jasonlong][2]'s [Architect theme][4] on [GitHub Pages][3].
